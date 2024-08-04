@@ -14,10 +14,12 @@ internal sealed class JsonCompanyParser : IJsonCompanyParser
         var items = json.Value<JArray>("items");
         if (items is null || items.Count == 0) return Result.Failure<Company>("Invalid json");
         
-        var companyInfo = items.First!.Value<JObject>("ЮЛ") ?? items.First.Value<JObject>("ИП");
+        var companyInfo = items.First!.Value<JObject>("ЮЛ") ?? items.First.Value<JObject>("ИП") 
+            ?? items.First.Value<JObject>("НР");
         if (companyInfo is null) return Result.Failure<Company>("Invalid json");
         
-        var name = companyInfo.Value<string>("НаимПолнЮЛ") ?? companyInfo.Value<string>("ФИОПолн");
+        var name = companyInfo.Value<string>("НаимПолнЮЛ") ?? companyInfo.Value<string>("ФИОПолн") 
+            ?? companyInfo.Value<string>("НаимЮЛПолн");
         if (name is null) return Result.Failure<Company>("invalid json");
 
         var addressSection = companyInfo.Value<JObject>("Адрес");
