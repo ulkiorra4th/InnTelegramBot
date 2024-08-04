@@ -1,0 +1,17 @@
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\bin\Debug\net8.0\InnTelegramBot.Infrastructure.deps.json
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\bin\Debug\net8.0\InnTelegramBot.Infrastructure.dll
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\bin\Debug\net8.0\InnTelegramBot.Infrastructure.pdb
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\bin\Debug\net8.0\InnTelegramBot.Application.dll
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\bin\Debug\net8.0\InnTelegramBot.Domain.dll
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\bin\Debug\net8.0\InnTelegramBot.Application.pdb
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\bin\Debug\net8.0\InnTelegramBot.Domain.pdb
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\obj\Debug\net8.0\InnTelegramBot.Infrastructure.csproj.AssemblyReference.cache
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\obj\Debug\net8.0\InnTelegramBot.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\obj\Debug\net8.0\InnTelegramBot.Infrastructure.AssemblyInfoInputs.cache
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\obj\Debug\net8.0\InnTelegramBot.Infrastructure.AssemblyInfo.cs
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\obj\Debug\net8.0\InnTelegramBot.Infrastructure.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\obj\Debug\net8.0\InnTeleg.29A3B38C.Up2Date
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\obj\Debug\net8.0\InnTelegramBot.Infrastructure.dll
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\obj\Debug\net8.0\refint\InnTelegramBot.Infrastructure.dll
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\obj\Debug\net8.0\InnTelegramBot.Infrastructure.pdb
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Infrastructure\obj\Debug\net8.0\ref\InnTelegramBot.Infrastructure.dll

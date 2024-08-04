@@ -1,0 +1,15 @@
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\obj\Debug\net8.0\InnTelegramBot.Application.csproj.AssemblyReference.cache
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\obj\Debug\net8.0\InnTelegramBot.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\obj\Debug\net8.0\InnTelegramBot.Application.AssemblyInfoInputs.cache
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\obj\Debug\net8.0\InnTelegramBot.Application.AssemblyInfo.cs
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\obj\Debug\net8.0\InnTelegramBot.Application.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\bin\Debug\net8.0\InnTelegramBot.Application.deps.json
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\bin\Debug\net8.0\InnTelegramBot.Application.dll
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\bin\Debug\net8.0\InnTelegramBot.Application.pdb
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\bin\Debug\net8.0\InnTelegramBot.Domain.dll
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\bin\Debug\net8.0\InnTelegramBot.Domain.pdb
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\obj\Debug\net8.0\InnTeleg.F92B82C7.Up2Date
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\obj\Debug\net8.0\InnTelegramBot.Application.dll
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\obj\Debug\net8.0\refint\InnTelegramBot.Application.dll
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\obj\Debug\net8.0\InnTelegramBot.Application.pdb
+E:\GitHubProjects\InnTelegramBot\InnTelegramBot\InnTelegramBot.Application\obj\Debug\net8.0\ref\InnTelegramBot.Application.dll

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnTelegramBot", "InnTelegramBot\InnTelegramBot.csproj", "{E5334B91-C179-4654-B7D4-4B03C2D31C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnTelegramBot.Application", "InnTelegramBot.Application\InnTelegramBot.Application.csproj", "{F536E132-6972-49BB-A097-BF70C69E3EC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnTelegramBot.Domain", "InnTelegramBot.Domain\InnTelegramBot.Domain.csproj", "{EA9292FC-A73B-4B9A-81E8-76B8FDF465C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnTelegramBot.Infrastructure", "InnTelegramBot.Infrastructure\InnTelegramBot.Infrastructure.csproj", "{3E7C0D88-F82D-4F70-A5C5-236BCEACCB03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5334B91-C179-4654-B7D4-4B03C2D31C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5334B91-C179-4654-B7D4-4B03C2D31C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5334B91-C179-4654-B7D4-4B03C2D31C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5334B91-C179-4654-B7D4-4B03C2D31C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F536E132-6972-49BB-A097-BF70C69E3EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F536E132-6972-49BB-A097-BF70C69E3EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F536E132-6972-49BB-A097-BF70C69E3EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F536E132-6972-49BB-A097-BF70C69E3EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA9292FC-A73B-4B9A-81E8-76B8FDF465C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9292FC-A73B-4B9A-81E8-76B8FDF465C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9292FC-A73B-4B9A-81E8-76B8FDF465C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9292FC-A73B-4B9A-81E8-76B8FDF465C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7C0D88-F82D-4F70-A5C5-236BCEACCB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7C0D88-F82D-4F70-A5C5-236BCEACCB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7C0D88-F82D-4F70-A5C5-236BCEACCB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7C0D88-F82D-4F70-A5C5-236BCEACCB03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
