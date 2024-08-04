@@ -49,9 +49,10 @@ internal sealed class UpdateHandler : IUpdateHandler
         _logger.LogInformation("Receive message type: {MessageType}", msg.Type);
         if (msg.Text is not { } messageText)
             return;
-
+        
         var sentMessage = await (messageText.Split(' ')[0] switch
         {
+            Command.StartCommandConst => SendUsageMessage(botClient, msg),
             Command.HelloCommandConst => SendHelloMessage(botClient, msg),
             Command.HelpCommandConst => SendUsageMessage(botClient, msg),
             Command.InnCommandConst => SendCompanyInfoByInn(botClient, msg),
