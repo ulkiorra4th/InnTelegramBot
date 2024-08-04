@@ -18,10 +18,7 @@ internal sealed class Command
         Syntax = syntax;
         Description = description;
     }
-    
-    public static Command StartCommand { get; } = 
-        new Command(StartCommandConst, "начать общение с ботом");
-    
+
     public static Command HelloCommand { get; } = 
         new Command(HelloCommandConst, "получить информацию об авторе бота");
     
@@ -36,7 +33,6 @@ internal sealed class Command
 
     public static IReadOnlyCollection<Command> AllCommands { get; } = new[]
     {
-        StartCommand,
         HelpCommand, 
         HelloCommand, 
         InnCommand, 
