@@ -34,21 +34,12 @@ internal sealed class Command
     public static Command LastCommand  { get; } =
         new Command(LastCommandConst, "повторить последнее действие бота");
 
-    public static Command OkvedCommand { get; } = 
-        new Command(OkvedCommandConst + " [ИНН]", "получить по ИНН компании коды (ОКВЭД)"+ 
-                                                 " и виды деятельности компании, отсортированные в обратном алфавитном порядке по виду деятельности");
-
-    public static Command EgrulCommand { get; } =
-        new Command(EgrulCommandConst + " [ИНН]", "получить по ИНН компании pdf-файл с выпиской из ЕГРЮЛ");
-    
     public static IReadOnlyCollection<Command> AllCommands { get; } = new[]
     {
         StartCommand,
         HelpCommand, 
         HelloCommand, 
         InnCommand, 
-        LastCommand,
-        OkvedCommand, 
-        EgrulCommand, 
+        LastCommand
     };
 };
